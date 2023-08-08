@@ -11,6 +11,7 @@ public class Practica2 {
         System.out.println("Sou Juan");
         System.out.println("Soy Mica");
         System.out.println("Soy David");
+        System.out.println("F por Brian y su PC");
     }
     
 }
