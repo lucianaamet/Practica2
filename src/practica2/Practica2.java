@@ -13,6 +13,7 @@ public class Practica2 {
         System.out.println("Soy David");
         System.out.println("F por Brian y su PC");
         System.out.println("Esta es la rama 1");
+        System.out.println(2+2);
     }
     
 }
