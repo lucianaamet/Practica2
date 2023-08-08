@@ -9,6 +9,7 @@ public class Practica2 {
         
         System.out.println("soy Luciana");
         System.out.println("Sou Juan");
+        System.out.println("Soy Mica");
     }
     
 }
